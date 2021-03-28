@@ -9,8 +9,8 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="480" />
 <h2>⚡️ Some quick facts</h2>
 <ul>
-    <li>🔭 I'm currently learning PHP and MySQL</li>
-    <li>💬 I'm currently working on my Digital Portfolio</li>
+    <li>🔭 I'm currently learning Angular and MongoDB.</li>
+    <li>💬 I'm currently working on my website.</li>
     <li>🔎 Lately, I'd rather spend time coding than playing games.</li>
 </ul>
 <h2>🚀 Languages used 🚀</h2>
