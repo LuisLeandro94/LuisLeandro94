@@ -11,8 +11,7 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="480" />
 <h2>⚡️ Some quick facts</h2>
 <ul>
-    <li>🔭 I'm currently learning Angular, PostgreSQL and Python.</li>
-    <li>💬 I'm currently working on my website.</li>
+    <li>🔭 I'm currently learning React, React Native & Docker.</li>
     <li>🔎 Lately, I'd rather spend time coding than playing games.</li>
 </ul>
 <h2>🚀 Languages used 🚀</h2>
