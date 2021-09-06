@@ -1,5 +1,6 @@
 <h2>Hey there 👋, I'm Luis!</h2>
-<p>I'm from Portugal, and I'm currently studying Web Development @ IPCA.           
+<p> Junior Software Developer @ Codepoint. <br>
+    I'm from Portugal, and I'm currently studying Web Development @ IPCA.           
     All things tech related enthusiast, gamer and C# lover.
 </p>
 <p>
