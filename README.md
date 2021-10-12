@@ -12,7 +12,6 @@
 <h2>⚡️ Some quick facts</h2>
 <ul>
     <li>🔭 I'm currently learning React, React Native & Docker.</li>
-    <li>🔎 Lately, I'd rather spend time coding than playing games.</li>
 </ul>
 <h2>🚀 Languages used 🚀</h2>
 <p align="left">
