@@ -1,6 +1,6 @@
 <h2>Hey there 👋, I'm Luis!</h2>
-<p> Software Developer @ Codepoint. <br>
-    1+ years experience in Frontend development, using mainly React, aswell as backend development mostly using .NET Core, although having some experience in node. Gaming enthusiast and music lover. Interested in devising a better problem‐solving method for challenging tasks and learning new technologies and tools if the need arises.
+<p> Lead Frontend Developer @ Prozis <br>
+    2+ years experience in Frontend development, using mainly React and Vue, aswell as backend development mostly using .NET Core, although having some experience in node. Gaming enthusiast and music lover. Interested in devising a better problem‐solving method for challenging tasks and learning new technologies and tools if the need arises.
 </p>
 <p>
     <a href="https://www.linkedin.com/in/luisleandro94/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"></a> 
