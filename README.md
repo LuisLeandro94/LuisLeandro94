@@ -1,6 +1,6 @@
 <h2>Hey there 👋, I'm Luis!</h2>
 <p> Frontend Developer @ VFX Financial <br>
-    3+ years experience in Frontend development, using mainly React and Vue, aswell as backend development mostly using .NET Core, although having some experience in node. Gaming enthusiast and music lover. Interested in devising a better problem‐solving method for challenging tasks and learning new technologies and tools if the need arises.
+    5+ years experience in Frontend development, using C#, Javascript and Typescript, aswell as backend development using Node and .NET. Gaming enthusiast and music lover. Interested in devising a better problem‐solving method for challenging tasks and learning new technologies and tools if the need arises.
 </p>
 <p>
     <a href="https://www.linkedin.com/in/luisleandro94/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"></a> 
