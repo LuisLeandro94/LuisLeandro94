@@ -8,10 +8,6 @@
     </p>
 
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="480" />
-<h2>⚡️ Some quick facts</h2>
-<ul>
-    <li>🔭 Currently exploring a little bit of Solidity and Web3js</li>
-</ul>
 <h2>🚀 Technologies 🚀</h2>
 <p align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
